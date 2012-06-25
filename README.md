@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 rtsgui-api
 ==========
-=======
-Usage:
-======
+
+highlightJavascript usage:
+==========================
 
 include the following resources inside the <code>&lt;head&gt;</code> tag.
 
@@ -55,4 +54,3 @@ Known Limitations:
 1. in rare instances the space character in a regular expression, or two regular expressions on the same line will cause parsing issues.
 
 2. Compressed code does not format well, as regular expression parsing works best when there are line breaks often. Another syntax highlighter may suit your needs better if you plan on displaying compressed code.
->>>>>>> 1f657f5a400ce25a07790648c3d26d8c3401ec4f
